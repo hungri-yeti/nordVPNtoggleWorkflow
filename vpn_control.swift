@@ -8,7 +8,7 @@ import Foundation
 // use the command:
 // scutil --nc list
 // to list out all current VPN
-private let ServiceName = "NordVPN NordLynx 2"
+private let ServiceName = "NordVPN NordLynx"
 
 // full path to the scutil command:
 private let scutilCmd = "/usr/sbin/scutil"
